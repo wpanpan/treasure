@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>欢迎来到海贼王世界</title>
+	<style>
+	#head {	position:absolute;
+			top:0px;
+			margin:0 auto;
+			width:1315px;
+			height:205px;
+			background:url(bj.jpg)no-repeat;
+			border-radius:20px 20px;
+			overflow:hidden;
+			}
+	#toppicture{position:absolute;
+				top:0px;
+				left:247px;
+				width:795px;
+				overflow:hidden;
+				}
+	#bottompicture li{	float:left;
+						display:block;
+						height:70px;
+						width:100px;
+						margin-right:10px;
+						text-align:center;
+						line-height:60px;
+						font-size:25px;
+						font-family:"隶书";
+						}
+	#bottompicture a  {color:white;
+						display:block;}
+	#bottompicture a:hover{color:#FFE400;}
+	a:link {text-decoration:none;}
+	#main {
+			position:absolute;
+			top:205px;
+			left:120px;
+			width:1000px;
+			height:1500px;
+			border:1px solid pink;
+			}
+	#box {  position:absolute;
+			height:75px;
+			background:pink;
+			width:1100px;
+			overflow:hidden;
+			}
+	#search a{color:red;}
+	#search a:hover{color:black;}
+	#catton {	height:400px;
+				position:absolute;
+				top:280px;
+				background:#fff;
+				overflow:hidden;
+	        }
+	#catoon li{ 
+				float:left;
+				overflow:hidden;
+				}
+	#footer{background:url(footer.jpg)no-repeat;
+			border-radius:10px;
+			height:126px;
+			position:relative;
+			top:1650px;
+			padding-top:50px;
+			}
+	#footer li{float:left;margin-right:20px;display:block;
+	text-align:center;
+	line-height:30px;
+	}
+	#footer a{color:black;}
+	</style>
+	</head>
+	<body>
+	<!--放页首的DIV-->
+	<div id="head">
+		<div id="toppicture"><img src="head.jpg"/>
+		</div>
+		<div id="bottompicture" style="width:795px;margin-top:110px;
+		margin-left:245px;overflow:hidden;
+		background:url(board.jpg)no-repeat;">
+			<ul>
+				<li style="width:60px"><a href="http://www.4399dmw.com/haizeiwang/">首页</a></li>
+				<li><a href="http://www.4399dmw.com/haizeiwang/donghua/">海贼动画</a></li>
+				<li><a href="http://www.4399dmw.com/haizeiwang/manhua/">海贼漫画</a></li>
+				<li><a href="http://www.4399dmw.com/haizeiwang/tupian/">海贼图片</a></li>
+				<li><a href="http://www.4399dmw.com/haizeiwang/juqing/">海贼分析</a></li>
+				<li><a href="http://www.4399dmw.com/haizeiwang/yinyue/">海贼音乐</a></li>
+				<li><a href="http://www.4399dmw.com/haizeiwang/renwu/">悬赏令</a></li>	
+			</ul>
+		</div>
+		</div>
+	</div>
+	<!--放主要内容的div-->
+	
+	<div id="main">
+		<div id="box">
+			<div style="float:left;"><img src="box_yl.jpg"/></div>
+			<div>
+				<div id="search" style="
+				margin:8px;float:left;font-size:22px;
+				color:#a55a11"><img src="ico.png"/>最新公告
+				<br>
+				<span style="line-height:60px;
+				font-size:25px;">热门搜索:</span>
+				<a href="http://www.4399dmw.com/dh/dlzs3/">斗龙战士3
+				</a>
+				<a href="http://www.4399dmw.com/dh/mhcs/">魔幻车神
+				</a>
+				<a href="http://www.4399dmw.com/dh/zzx10/">猪猪侠之舞灵守护者
+				</a>
+				</div>
+				<div style="float:right;
+				height:30px;
+				width:180px;">
+				<input type="text" value="请输入搜索内容"
+				style="height:40px"/>
+				<input type="submit" value="搜索"/>
+				</div>
+			<div style="float:right;"><img src="box_yr.jpg"/></div>
+			</div>
+		</div>
+		<div>
+		<div style="
+		position:relative;
+		top:77px;
+		height:580px;
+		width:800px;
+		padding:20px;
+		">
+			<div id="1" style="float:left;margin:10px">
+			<a title="海贼王 769集" href="http://www.4399dmw.com/haizeiwang/donghua/287838.html"><img src="dd_1.jpg"></div>
+			<div id="2" style="float:left;margin:10px">
+			<a title="海贼王 768集" href="http://www.4399dmw.com/haizeiwang/donghua/287287.html"><img src="dd_2.jpg"></a></div>
+			<div id="3" style="float:left;margin:10px">
+			<a title="海贼王 767集" href="http://www.4399dmw.com/haizeiwang/donghua/286564.html"><img src="dd_3.jpg"></a></div>
+			<div id="4" style="float:left;margin:10px">
+			<a title="海贼王 766集" href="http://www.4399dmw.com/haizeiwang/donghua/286023.html"><img src="dd_4.jpg"></a></div>
+		<div style="position:absolute;
+		right:-170px;
+		top:0px;
+		"><img src="right.png"/></div>
+		</div>
+	</div>
+	<div><img src="112267.jpg"/></div>
+	
+</div>
+	<!--放页脚的div-->
+	<div id="footer">
+	<ul>
+	<li><a href="http://www.4399dmw.com/contact_us.html">联系我们</a></li>
+	<li><a href="http://www.4399dmw.com/disclaimer.html">免费声明</a></li>
+	<li><a href="http://www.4399dmw.com/map.html">网站地图</a></li>
+	<li><a href="http://www.4399dmw.com/copyright.html">版权保护投诉声明</a></li>
+	<li><a href="http://www.4399dmw.com/uploadinfo.html">动漫作品上传须知</a></li>
+	</ul>
+	<div style="
+	position:absolute;
+	top:5px;
+	right:5px;"><img src="renqi.png"/></div>
+	</div>
+	
+	</body>
+</html>
