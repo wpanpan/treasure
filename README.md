@@ -1,2 +1,0 @@
-# treasure
-it's perfect！
